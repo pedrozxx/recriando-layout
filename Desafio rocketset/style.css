@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+}
+h1{
+    font-family: "JetBrains Mono", monospace;
+    display: flex;
+    justify-content:right ;
+    
+}
+h1 span{
+    color: #00BFA6;
+    
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    justify-content: center;
+    display: flex;
+
+}
+p span {
+    color: #00BFA6;
+}
+#line{
+    width: 568px;
+    height: 0px;
+    border:1px solid #00FF99;
+    margin: 400px auto;
+}
+body{
+    background-color: #2C2B3D;
+}
+#page img{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    color: #FFFFFF;
+    justify-content:center ;
+    display: flex;
+    
+}
+#hero{
+margin-top: auto;
+
+}
+footer p {
+    color: #FFFFFF;
+    font-family: "JetBrains Mono", monospace;
+    
+}
